@@ -6,7 +6,7 @@ int main(void){
 
     printf("What's x ? ");
     scanf("%d", &x);
-    printf("W hat's yd ? ");
+    printf("What's yd ? ");
     scanf("%d", &y);
 
     if (x < y){
