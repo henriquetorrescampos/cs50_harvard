@@ -4,9 +4,9 @@ int main(void){
     int x;
     int y;
 
-    printf("What is x ? ");
+    printf("What's x ? ");
     scanf("%d", &x);
-    printf("What is yd ? ");
+    printf("What's yd ? ");
     scanf("%d", &y);
 
     if (x < y){
