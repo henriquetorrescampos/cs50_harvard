@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
     char name[100];
     int age = 25;
     float height = 1.70;
